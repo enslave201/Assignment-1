@@ -1,0 +1,94 @@
+body{
+  font-family: 'Kanit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+      font-family: 'PT Serif', serif;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+
+section{
+      padding: 70px;
+      }
+
+.top-banner{
+      background-image: url("../images/donation13.jpg");
+        height: fit-content;
+          max-width: 1550px;
+            color: white;
+              text-align: center;
+      }
+
+.donate-now{
+    text-decoration: none;
+      background: linear-gradient(45deg, rgb(85, 197, 96), rgb(110, 213, 134));
+        padding: 10px 40px;
+          border-radius: 5px;
+            color: rgb(255, 255, 255);
+              font-weight: 700;
+  }
+
+  .middle-part{
+      text-align: center;
+        width:98%;
+          float: left;
+            margin-left: 0%;
+              padding-left: 2%;
+    }
+
+    button{
+      color: brown;
+        font-size: 40px;
+          padding: 10px;
+            margin: 5px;
+              width: 200px;
+                height: 150px;
+    }
+
+  .hm{
+    display: flex;
+ 
+  }
+    .serviceBox1{ 
+      background-color: aquamarine;
+        padding: 25px;
+          margin: 5px 0 0 5px;    
+  }
+
+  .serviceBox2{
+    background-color: burlywood;
+      padding: 25px;
+        margin: 7px 0 0 5px;         
+  }
+
+  .serviceBox3{
+    background-color: rgb(163, 232, 163);
+      padding: 24px;
+        margin: 5px 0 0 5px;   
+  }
+
+  footer {
+    text-align: center;
+      padding: 3px;
+        background-color: rgb(9, 3, 1);
+          color: white;
+  }
+
+  .em{
+    background-color: rgb(197, 197, 197);
+  }
+
+.rm{
+  background-color: red;
+}
+
+.goal{
+  display: flex;
+}
+
+.update{
+  background-color: lightcoral;
+    padding: 15px;
+      width: 400px;
+        margin: 5px 0 0 5px; 
+}
+      
+    
